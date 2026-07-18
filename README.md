@@ -21,11 +21,11 @@ A responsive digital restaurant menu built with **Flutter Web**, allowing custom
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+### Home Screen
 
 ![Home Screen](screenshots/homescreen.png)
 
-### 🥗 Veg / Non-Veg Filter
+### Veg / Non-Veg Filter
 
 ![Veg Non Veg Filter](screenshots/filter-menu.png)
 
@@ -33,15 +33,15 @@ A responsive digital restaurant menu built with **Flutter Web**, allowing custom
 
 ![Search Results](screenshots/search-results.png)
 
-### 📱 Responsive Layout
+### Responsive Layout
 
 ![Responsive Layout](screenshots/desktop-mode.png)
 
-### ❌ No Results State
+### No Results State
 
 ![No Results](screenshots/nosearch-result.png)
 
-## 🚀 Running the Project
+## Running the Project
 
 ```bash
 flutter pub get
