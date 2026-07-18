@@ -2,10 +2,6 @@
 
 A responsive digital restaurant menu built with **Flutter Web**, allowing customers to browse dishes by simply scanning a QR code. The application provides a modern, mobile-friendly interface with search, category filtering, and Veg/Non-Veg filtering.
 
-## 🌐 Live Demo
-
-https://your-live-website-url
-
 ## ✨ Features
 
 - 📱 Responsive design for mobile, tablet, and desktop
