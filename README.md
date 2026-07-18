@@ -1,6 +1,6 @@
-# nathkrupa
+# Hotel Nathkrupa
 
-A new Flutter project.
+Flutter Web based digital restaurant menu with QR code access.
 
 ## Getting Started
 
