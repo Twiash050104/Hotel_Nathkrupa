@@ -21,6 +21,10 @@ A responsive digital restaurant menu built with **Flutter Web**, allowing custom
 
 ## 📸 Screenshots
 
+### Qr Code
+
+![Qr Code](screenshots/QrCode.png)
+
 ### Home Screen
 
 ![Home Screen](screenshots/homescreen.png)
